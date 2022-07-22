@@ -1,4 +1,4 @@
-<details>
+<details><summary>CLICK ME</summary>
  <p>
 # hahaha
 >hahaha
