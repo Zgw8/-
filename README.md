@@ -1,10 +1,9 @@
-  <details>   
-      # hahaha
-    >hahaha
-    >>hahahaha
+
+# hahaha
+>hahaha
+ >>hahahaha
 >>>hahahhahaha
-  ## hahahaha
+## hahahaha
 <a>hahahahah</a>
-  * hahahah
-    * * hahahahaha
-  </details>
+* hahahah
+* * hahahahaha
