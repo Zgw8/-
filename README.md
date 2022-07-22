@@ -1,3 +1,3 @@
-**The Cauchy-Schwarz Inequality**
-
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+# hello-world
+* 这是第一次用GitHub
+* * 交个朋友吧
