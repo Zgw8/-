@@ -1,3 +1,4 @@
+<details>
 # hahaha
 >hahaha
 >>hahahaha
@@ -6,3 +7,4 @@
 <a>hahahahah</a>
 * hahahah
 * * hahahahaha
+</details>
