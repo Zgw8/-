@@ -1,11 +1,35 @@
-# 网络打印机
-## 1、网络打印机的实现原理
-网络打印机主要利用局域网网路实现与电脑间的通讯，每台电脑与打印机访问属于独立模式。
-### 2、网络打印机具体操作步骤
-* 首先，通过网络端口将打印机接入局域网；
-* 其次，设置打印机的IP地址，尽量使用局域网的固定IP地址，不要使用自动获取的方式（一般在打印机-设置-网络-有线中设置）；
-* 最后，安装网络打印机的驱动，一般安装驱动的过程中会自动搜索局域网打印机并完成安装；如果没有自动搜寻功能，可按上述共享打印机的搜寻方式安装。
->两种类型打印机的优缺点
->>共享打印机的优势是价格便宜，更加广泛的应用在各个单位；
->>>缺点是较为依赖共享电脑，一旦共享打印机电脑关机则无法进行打印。
->>>>网络打印机的优势是安装简便，使用更加灵活方便，并且不必依赖任何电脑；缺点是价格要高于共享式打印机。
+## Hey 👋, This is Ruan
+
+[![Mail Badge](https://img.shields.io/badge/-11812109@mail.sustech.edu.cn-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:11812109@mail.sustech.edu.cn)](mailto:11812109@mail.sustech.edu.cn) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ryyyc/)](https://www.github.com/ryyyc/)
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=ryyyc alt=ryyyc /> </p>
+
+<a href="https://github.com/ryyyc">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/ryyyc">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
+</a>
+
+Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
+
+
+<!--
+**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
